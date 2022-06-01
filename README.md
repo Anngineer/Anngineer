@@ -1,4 +1,10 @@
-### Hi there 👋
+### Thanks for stopping by!
+
+I'm a front-end web developer teaching myself full-stack development.  
+
+My [portfolio](https://anngineer.com/) uses React, SCSS, HTML, Javascript/JSX, and responsive design. 
+
+If you are interested in collaboration or have any questions, please feel free to contact me at [LinkedIn](www.linkedin.com/in/anngineer) or email me at Anngineer@gmail.com.
 
 <!--
 **Anngineer/Anngineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
