@@ -1,8 +1,8 @@
 ### Thanks for stopping by!
 
-I'm a front-end web developer teaching myself full-stack development.  
+I'm currently a software engineering student learning Java, C++, SQL, and other languages.   
 
-My [portfolio](https://anngineer.com/) uses React, SCSS/CSS, HTML, Javascript, JSX, and responsive design. 
+My web development [portfolio](https://anngineer.com/) uses React, SCSS/CSS, HTML, Javascript, JSX, and responsive design. 
 
 If you are interested in collaboration or have any questions, please feel free to contact me at [LinkedIn](www.linkedin.com/in/anngineer).
 
