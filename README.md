@@ -1,8 +1,10 @@
 ### Thanks for stopping by!
 
-I'm currently a software engineering student learning Java, C++, SQL, and other languages.   
+I'm currently a software engineering student working with Java, C++, SQL, and other languages.   
 
-My web development [portfolio](https://anngineer.com/) uses React, SCSS/CSS, HTML, Javascript, JSX, and responsive design. 
+My most recent projects can be found on my [CV page](https://portfolio-anngineers-projects.vercel.app/) and described in my [blog posts](https://anngineer.substack.com/). 
+
+My [web development portfolio](https://anngineer.com/) uses React, SCSS/CSS, HTML, Javascript, JSX, and responsive design. 
 
 If you are interested in collaboration or have any questions, please feel free to contact me at [LinkedIn](www.linkedin.com/in/anngineer).
 
