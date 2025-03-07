@@ -1,6 +1,6 @@
 ### Thanks for stopping by!
 
-I'm currently a software developer working with Java, C++, SQL, and other languages.   
+I am a software developer working in Java, C++, SQL, and other languages.   
 
 My most recent projects can be found on my [CV page](https://portfolio-anngineers-projects.vercel.app/) and described in my [blog posts](https://anngineer.substack.com/). 
 
