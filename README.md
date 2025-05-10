@@ -6,7 +6,6 @@ My most recent projects can be found on my [CV page](https://anngineer.com/) and
 
 My [web development portfolio](https://annbridge.com/) uses React, SCSS/CSS, HTML, Javascript, JSX, and responsive design. 
 
-If you are interested in collaboration or have any questions, please feel free to contact me at [LinkedIn](https://www.linkedin.com/in/anngineer/).
 
 <!--
 **Anngineer/Anngineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
